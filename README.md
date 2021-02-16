@@ -25,6 +25,22 @@ You have been assigned a task by the team to add more flexibility rather than us
 
 ## Examples
 
-### Tests
+### Welcome Page
 
+![welcome](https://user-images.githubusercontent.com/58124052/108112671-0b128f80-705c-11eb-9a4f-0842016430c1.png)
 
+### Login Page
+
+![login-page](https://user-images.githubusercontent.com/58124052/108112669-0a79f900-705c-11eb-9b5a-3f43bca9b8f3.png)
+
+### Error Page
+
+![error-message](https://user-images.githubusercontent.com/58124052/108112665-09e16280-705c-11eb-8eff-62c533393680.png)
+
+### Hello Page
+
+![hello-page](https://user-images.githubusercontent.com/58124052/108112667-0a79f900-705c-11eb-9163-600113fd2a10.png)
+
+### Sign Out Page
+
+![logout-page](https://user-images.githubusercontent.com/58124052/108112670-0a79f900-705c-11eb-82cc-044771d3dbd1.png)
